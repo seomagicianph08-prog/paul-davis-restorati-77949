@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seomagicianph08-prog.github.io/paul-davis-restorati-77949/sitemap.xml
+Sitemap: https://paul-davis-restorati-77949.pages.dev/sitemap.xml
